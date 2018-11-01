@@ -3,7 +3,7 @@ Okayama Routing
 
 ## Demo
 Depending on input, the output is displayed as the result like the image below.
-![result](https://github.com/ka9epedia/routing/media/routing.gif)
+![result](https://github.com/ka9epedia/routing/blob/media/routing.gif)
 
 ## Requirement
 - Node.js and npm
