@@ -9,7 +9,15 @@ Okayama Routing
 - Node.js and npm
 - PosgreSQL,PostGIS and pgRouting
 
-## Install
+## Buidl and Install 
+pgRouting https://github.com/pgRouting/pgrouting  
+osm2pgrouting https://github.com/pgRouting/osm2pgrouting  
+    
+    mkdir build
+    cd build
+    cmake ../
+    make
+    sudo make install
 
 ## Usage
 Please edit config.js file  
