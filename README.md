@@ -2,8 +2,8 @@ Okayama Routing
 ====
 
 ## Demo
-Depending on input, the output is displayed as the result like the image below.
-![result](https://github.com/ka9epedia/routing/media/routing.gif)
+![Demo](https://user-images.githubusercontent.com/42766115/47839268-7c7b9500-ddf5-11e8-87d5-5cf1b6c74636.gif)
+
 
 ## Requirement
 - Node.js and npm
