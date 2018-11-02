@@ -44,7 +44,7 @@ You can install the sample data or download your own from [OpenStreetMap](https:
 
 ## Run
     npm install
-    npm start
+    node server.js
 With the default settings, your server will be running at http://localhost:5050
 ## Author
 
