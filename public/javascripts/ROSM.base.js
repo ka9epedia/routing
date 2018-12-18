@@ -13,4 +13,3 @@ ROSM.CONSTANTS.VIA_LABEL = "案内";
 
 ROSM.DEFAULTS.ZOOM_LEVEL = 14;
 ROSM.DEFAULTS.HOST_GEOCODER_URL = "http://nominatim.openstreetmap.org/search";
-//ROSM.DEFAULTS.HOST_GEOCODER_URL = "http://maps.googleapis.com/maps/api/geocode/";
