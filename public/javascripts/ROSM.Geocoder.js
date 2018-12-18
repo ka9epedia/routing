@@ -11,8 +11,8 @@ ROSM.Geocoder = {
       return;
     }
 
-    var call = ROSM.DEFAULTS.HOST_GEOCODER_URL + "json" + "?address=" + query + "&sensor=false";
-    //var call = ROSM.DEFAULTS.HOST_GEOCODER_URL + "?format=json" + "&limit=30&q=" + query;
+    var call = ROSM.DEFAULTS.HOST_GEOCODER_URL + "?format=json" + "&limit=30&q=" + query;
+    //var call = ROSM.DEFAULTS.HOST_GEOCODER_URL + "json" + "?address=" + query + "&sensor=false";
 
     ROSM.JSON.clear("geocoder");
     ROSM.JSON.call("geocoder", {
